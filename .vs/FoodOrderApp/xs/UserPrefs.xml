@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{7AABA5D5-B443-44B5-9BE1-6153057E57B6}|Default">
+  <MonoDevelop.Ide.ItemProperties.FoodOrderApp.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FoodOrderApp/View/LoginView.xaml">
+    <Files>
+      <File FileName="FoodOrderApp/View/LoginView.xaml" Line="38" Column="57" />
+      <File FileName="FoodOrderApp/View/LoginView.xaml.cs" />
+      <File FileName="FoodOrderApp/App.xaml.cs" />
+      <File FileName="FoodOrderApp/Model/User.cs" />
+      <File FileName="FoodOrderApp/Services/UserService.cs" />
+      <File FileName="FoodOrderApp/ViewModel/LoginViewModel.cs" />
+      <File FileName="FoodOrderApp/ViewModel/BaseViewModel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FoodOrderApp" expanded="True">
+            <Node name="FoodOrderApp" expanded="True">
+              <Node name="View" expanded="True">
+                <Node name="LoginView.xaml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FoodOrderApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38021C14-5BA1-418B-A81B-E5545B523C6B" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
